@@ -1,1 +1,7 @@
 @import "tailwindcss";
+
+@layer components {
+  .btn {
+    @apply bg-linear-to-r from-blue-700 to-blue-600 hover:from-blue-600 hover:to-blue-500 font-semibold text-white rounded-lg transition-all duration-200 transform hover:scale-105 shadow-md;
+  }
+}

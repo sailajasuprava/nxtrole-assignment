@@ -37,9 +37,7 @@ function Header() {
             >
               Contact
             </a>
-            <button className="bg-linear-to-r hover:from-blue-600 hover:to-blue-500 text-white px-6 py-2 rounded-lg from-blue-700 to-blue-600 transition-all duration-200 transform hover:scale-105 shadow-md">
-              Get Started
-            </button>
+            <button className="btn px-6 py-2">Get Started</button>
           </div>
 
           <div className="md:hidden">
