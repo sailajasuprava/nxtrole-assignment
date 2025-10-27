@@ -30,7 +30,7 @@ function Footer() {
           />
         </span>
       </div>
-      <p>© 2025 NxtRole.AI. All rights reserved.</p>
+      <p>© 2025 NxtRole.AI</p>
     </footer>
   );
 }
