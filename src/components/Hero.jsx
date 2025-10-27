@@ -1,6 +1,4 @@
-import React from "react";
-
-const Hero = () => {
+function Hero() {
   return (
     <section
       id="home"
@@ -21,6 +19,6 @@ const Hero = () => {
       </div>
     </section>
   );
-};
+}
 
 export default Hero;
