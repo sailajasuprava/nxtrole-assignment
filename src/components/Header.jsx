@@ -8,7 +8,7 @@ function Header() {
     <header className="bg-white shadow-sm fixed w-full top-0 z-50">
       <nav className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
-          <div className="flex items-center space-x-2">
+          <div>
             <img src="/image.png" alt="logo" className="w-20 h-16" />
           </div>
 
@@ -77,9 +77,7 @@ function Header() {
               >
                 Contact
               </a>
-              <button className="bg-linear-to-r from-blue-600 to-blue-500 text-white px-6 py-2 rounded-lg hover:from-blue-700 hover:to-blue-600 transition-all duration-200 w-full">
-                Get Started
-              </button>
+              <button className="btn px-6 py-2 w-full">Get Started</button>
             </div>
           </div>
         )}
