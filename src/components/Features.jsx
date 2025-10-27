@@ -7,25 +7,25 @@ function Features() {
       icon: <GiTeacher size={40} />,
       title: "Career Recommendations",
       description:
-        "Get personalized career suggestions based on your skills, interests, and market trends. Our AI analyzes your profile to recommend the best career paths.",
+        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repudiandae, minima explicabo natus cupiditate nostrum itaque eligendi quibusdam",
     },
     {
       icon: <FaBookOpen size={40} />,
       title: "Course Recommendations",
       description:
-        "Discover curated courses and learning resources tailored to your career goals. Stay ahead with relevant skills and certifications.",
+        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repudiandae, minima explicabo natus cupiditate nostrum itaque eligendi quibusdam",
     },
     {
       icon: <FaUserGraduate size={40} />,
       title: "Skill Gap Analysis",
       description:
-        "Identify the skills you need to develop for your dream role. Our intelligent system highlights your strengths and areas for improvement.",
+        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repudiandae, minima explicabo natus cupiditate nostrum itaque eligendi quibusdam",
     },
     {
       icon: <FaMapMarkedAlt size={40} />,
       title: "Personalized Roadmap",
       description:
-        "Receive a step-by-step career roadmap customized to your goals. Track your progress and achieve milestones with confidence.",
+        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repudiandae, minima explicabo natus cupiditate nostrum itaque eligendi quibusdam",
     },
   ];
 
