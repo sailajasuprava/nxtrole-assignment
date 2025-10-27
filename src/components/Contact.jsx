@@ -1,4 +1,4 @@
-const Contact = () => {
+function Contact() {
   return (
     <section id="contact" className="py-20 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -40,7 +40,7 @@ const Contact = () => {
               </label>
               <textarea
                 name="message"
-                rows={5}
+                rows={3}
                 className="w-full px-4 py-3 rounded-lg border border-gray-300 focus:border-blue-500 focus:ring-2 focus:ring-blue-200 transition-all duration-200 outline-none resize-none"
                 placeholder="Your message"
               ></textarea>
@@ -52,6 +52,6 @@ const Contact = () => {
       </div>
     </section>
   );
-};
+}
 
 export default Contact;
